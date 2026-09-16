@@ -1,4 +1,5 @@
 # Simple Perceptron
+##### 16 / 09 / 2026
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
